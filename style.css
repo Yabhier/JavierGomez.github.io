@@ -1,0 +1,7 @@
+.tamaño_letra{
+    font-size: x-large;
+}
+.navBar {
+    background-color: #cecfd1; /* Color de fondo de la barra de navegación (puedes cambiarlo según tus preferencias) */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
